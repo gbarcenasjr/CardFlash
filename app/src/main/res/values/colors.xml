@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_default">#1f272a</color>
+    <color name="mint">#56B381</color>
+    <color name="dark_mint">#418763</color>
+    <color name="sky_blue">#42A5F5</color>
+    <color name="dark_grey">#373737</color>
+    <color name="grey">#aeb1b3</color>
+</resources>
